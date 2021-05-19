@@ -1,0 +1,1 @@
+// import coutryCardTpl from '../templates/counrty-card.hbs';
