@@ -5,3 +5,11 @@ export const refs = {
     input: document.querySelector('.search-bar'),
 
 }
+
+export default function getRefs() {
+    return {
+        card: document.querySelector('.js-card-container'),
+        input: document.querySelector('.search-bar'),
+
+    };
+}
